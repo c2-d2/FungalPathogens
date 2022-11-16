@@ -1,6 +1,6 @@
 # Getting up to speed on fungal pathogens 
 
-This repository will keep track of a series of informal meetings happening in Nov-Dec 2022 at the Center for Communicable Disease Dynamics on fungal pathogens. 
+This repository will keep track of a series of informal meetings on fungal pathogens happening in Nov-Dec 2022 at the Center for Communicable Disease Dynamics. 
 
 |  Date  | Topic                                                            |
 | ------ | -----                                                            |
