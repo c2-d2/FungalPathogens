@@ -9,5 +9,5 @@ This repository will keep track of a series of informal meetings on fungal patho
 |  12/8  | Fungal infections: vaccination and [immunity](papers/immunity)   |
 |  12/15 | Fungal infections: treatment and [resistance](papers/resistance) |
 
-See also a list of relevant papers [here](https://docs.google.com/spreadsheets/d/1AS6p1e4UQBDb9fxFXGkGohGlO3GPPtHxiz9EZnNnrQQ/edit?usp=sharing).
+We'll keep notes on these meetings [here](notes/meeting_notes.md). See also a list of relevant papers [here](https://docs.google.com/spreadsheets/d/1AS6p1e4UQBDb9fxFXGkGohGlO3GPPtHxiz9EZnNnrQQ/edit?usp=sharing).
 
