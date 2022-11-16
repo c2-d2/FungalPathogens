@@ -4,7 +4,7 @@ This repository will keep track of a series of informal meetings happening in No
 
 |  Date  | Topic                                           |
 | ------ | -----                                           |
-|  11/17 | Epidemiological __trends__                      |
+|  11/17 | Epidemiological [trends](papers/trends)                      |
 |  12/1  | Fungal life cycles and __virulence__            |
 |  12/8  | Fungal infections: vaccination and __immunity__ |
 |  12/15 | Fungal infections: treatment and __resistance__ |
