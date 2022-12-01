@@ -19,6 +19,7 @@ This is wild... what are the population genomic dynamics of pathogens that can r
 Seems worth studying the C. gattii outbreak in Vancouver (and elsewhere); this one can affect otherwise healthy people and seems especially virulent. How does it spread? What's the reproduction number? What is its epidemiology like? Can we infer anything from the cases we've observed? 
 
 
+Fungal movement around the body - in macrophages - is this similar to metastasis? can we learn anything from cancer genomics and cancer bulk movement to inform what we should expect from fungi? 
 
 
 

@@ -61,3 +61,30 @@
 
 
 
+# Virulence
+
+Reproduction 
+yeasts and molds 
+mycelium more important for pathogenesis, generally
+sexual and asexual reproduction 
+
+sexual reproduction responsible for big leaps in evolution, asexual reproduction gives you large numbers. 
+
+Fungi are working on an utterly different timescale than bacteria and viruses - can leisurely find new nieches to reproduce sexually and then find a new host for asexual reproduction. 
+
+Seems like stress can induce sexual reproduction 
+
+copy number variation? big player in antifungal resistance 
+
+
+
+
+
+
+
+
+
+
+
+
+
