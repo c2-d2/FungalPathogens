@@ -17,3 +17,9 @@ From the [Wikipedia](https://en.wikipedia.org/wiki/Mating_in_fungi#:~:text=The%2
 This is wild... what are the population genomic dynamics of pathogens that can reproduce asexually but also have multiple sexes at different frequencies that can, at times, sexually reproduce???
 
 Seems worth studying the C. gattii outbreak in Vancouver (and elsewhere); this one can affect otherwise healthy people and seems especially virulent. How does it spread? What's the reproduction number? What is its epidemiology like? Can we infer anything from the cases we've observed? 
+
+
+
+
+
+
